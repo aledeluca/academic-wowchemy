@@ -1,6 +1,6 @@
 ---
 widget: landing
-widget_id: myhome
+widget_id: index
 headless: true
 weight: 10
 title: Bio
