@@ -21,7 +21,7 @@ education:
     - course: PhD @ Graduate School of Mathematics and Computer Science
       institution: Università di Napoli Federico II
       year: 2008
-superuser: true
+superuser: false
 ---
 I am an assistant professor (*Ricercatore confermato*) of Computer Science at [DIETI](http://www.dieti.unina.it/index.php?lang=en), [Università di Napoli Federico II](http://www.unina.it/en_GB/home) (Naples, Italy), formerly at the [University of Turku](https://www.utu.fi/en) and [UQAM](https://uqam.ca/).
 
