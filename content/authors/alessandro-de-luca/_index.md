@@ -19,6 +19,18 @@ social:
     link: https://orcid.org/0000-0003-1704-773X
     icon: orcid
     label: ORCID
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/delucaale
+    icon_pack: fab
+    icon: linkedin
+    label: Linkedin
+  - display:
+      header: false
+    link: http://arxiv.org/a/deluca_a_2
+    icon_pack: ai
+    icon: arxiv
+    label: arXiv
 organizations:
   - name: Università degli Studi di Napoli Federico II
     url: http://www.unina.it/en_GB/home
