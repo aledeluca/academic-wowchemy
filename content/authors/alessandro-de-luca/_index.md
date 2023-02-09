@@ -13,6 +13,12 @@ social:
     link: https://scholar.google.com/citations?user=R3cxnU8AAAAJ
     icon: google-scholar
     label: Google Scholar
+  - display:
+      header: true
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-1704-773X
+    icon: orcid
+    label: ORCID
 organizations:
   - name: Università degli Studi di Napoli Federico II
     url: http://www.unina.it/en_GB/home
