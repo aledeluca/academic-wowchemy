@@ -43,6 +43,12 @@ social:
     icon_pack: ai
     icon: elsevier
     label: Scopus author profile
+  - display:
+      header: false
+    link: "#contact"
+    icon_pack: fas
+    icon: envelope
+    label: Contact info
 organizations:
   - name: Università degli Studi di Napoli Federico II
     url: http://www.unina.it/en_GB/home
