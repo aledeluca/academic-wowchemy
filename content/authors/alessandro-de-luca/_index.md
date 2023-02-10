@@ -31,6 +31,18 @@ social:
     icon_pack: ai
     icon: arxiv
     label: arXiv
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Alessandro_De_Luca
+    icon_pack: ai
+    icon: researchgate
+    label: ResearchGate
+  - display:
+      header: false
+    link: https://www.scopus.com/authid/detail.uri?authorId=36449748000
+    icon_pack: ai
+    icon: elsevier
+    label: Scopus author profile
 organizations:
   - name: Università degli Studi di Napoli Federico II
     url: http://www.unina.it/en_GB/home
