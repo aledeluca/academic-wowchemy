@@ -38,7 +38,7 @@ social:
     icon: researchgate
     label: ResearchGate
   - display:
-      header: false
+      header: true
     link: https://www.scopus.com/authid/detail.uri?authorId=36449748000
     icon_pack: ai
     icon: elsevier
