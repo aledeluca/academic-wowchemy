@@ -11,7 +11,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=R3cxnU8AAAAJ
     icon: google-scholar
-    label: Google Scholar
+    label: Google Scholar profile
   - display:
       header: true
     icon_pack: ai
