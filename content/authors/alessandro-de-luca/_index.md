@@ -4,8 +4,7 @@ role: researcher & lecturer of theoretical computer science
 avatar_filename: avatar.jpg
 bio: Researcher & lecturer of theoretical computer science, currently @
   Università di Napoli Federico II
-interests:
-  - Words
+interests: []
 social:
   - display:
       header: true
@@ -59,13 +58,3 @@ education:
       year: 2008
 superuser: true
 ---
-* Assistant professor (*Ricercatore confermato*) of Computer Science at [DIETI](http://www.dieti.unina.it/index.php?lang=en), [Università di Napoli Federico II](http://www.unina.it/en_GB/home) (Naples, Italy).
-
-* Formerly at [University of Turku](https://www.utu.fi/en) and [UQAM](https://uqam.ca/).
-
-* Interested in
-   - Sturmian words and generalizations,
-   - pseudopalindromes,
-   - periodicity,
-
-and other topics in combinatorics on words, string algorithms, and discrete mathematics in general.
