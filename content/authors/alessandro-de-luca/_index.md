@@ -58,7 +58,7 @@ education:
       year: 2008
 superuser: true
 ---
-![DIETI](dieti.png "DIETI, Università di Napoli Federico II")
+[![DIETI](dieti.png)](http://www.dieti.unina.it/index.php?lang=en)
 
 **[Teaching/insitutional homepage](https://www.docenti.unina.it/alessandro.deluca)**
 (Italian)
