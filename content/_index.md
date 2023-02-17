@@ -12,9 +12,6 @@ sections:
       username: alessandro-de-luca
       # Override your bio text from `authors/admin/_index.md`?
       text:
-    design:
-      background:
-        color: 'snow'
   - block: experience
     content:
       title: Experience
