@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: coffee
-  theme_night: coffee
+  theme_day: cyberpunk
+  theme_night: cyberpunk
   font: minimal
   font_size: M
 
