@@ -46,7 +46,7 @@ social:
       header: false
     link: https://www.webofscience.com/wos/author/record/41711
     icon_pack: ai
-    icon: clarivate
+    icon: researcherid
     label: Web of Science profile
   - display:
       header: false
