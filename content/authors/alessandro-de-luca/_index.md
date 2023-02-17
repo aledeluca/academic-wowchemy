@@ -26,6 +26,18 @@ social:
     label: Scopus author profile
   - display:
       header: false
+    link: https://www.webofscience.com/wos/author/record/41711
+    icon_pack: ai
+    icon: researcherid
+    label: Web of Science profile
+  - display:
+      header: false
+    link: https://dblp.org/pid/95/1233-2.html
+    icon_pack: ai
+    icon: dblp
+    label: DBLP
+  - display:
+      header: false
     link: http://arxiv.org/a/deluca_a_2
     icon_pack: ai
     icon: arxiv
@@ -42,12 +54,6 @@ social:
     icon_pack: fab
     icon: linkedin
     label: Linkedin
-  - display:
-      header: false
-    link: https://www.webofscience.com/wos/author/record/41711
-    icon_pack: ai
-    icon: researcherid
-    label: Web of Science profile
   - display:
       header: false
     link: "#contact"
