@@ -19,11 +19,11 @@ social:
     icon: orcid
     label: ORCID
   - display:
-      header: false
-    link: https://www.linkedin.com/in/delucaale
-    icon_pack: fab
-    icon: linkedin
-    label: Linkedin
+      header: true
+    link: https://www.scopus.com/authid/detail.uri?authorId=36449748000
+    icon_pack: ai
+    icon: elsevier
+    label: Scopus author profile
   - display:
       header: false
     link: http://arxiv.org/a/deluca_a_2
@@ -37,17 +37,23 @@ social:
     icon: researchgate
     label: ResearchGate
   - display:
-      header: true
-    link: https://www.scopus.com/authid/detail.uri?authorId=36449748000
-    icon_pack: ai
-    icon: elsevier
-    label: Scopus author profile
+      header: false
+    link: https://www.linkedin.com/in/delucaale
+    icon_pack: fab
+    icon: linkedin
+    label: Linkedin
   - display:
       header: false
     link: "#contact"
     icon_pack: fas
     icon: envelope
     label: Contact info
+  - display:
+      header: false
+    link: https://www.webofscience.com/wos/author/record/41711
+    icon_pack: ai
+    icon: clarivate
+    label: Web of Science profile
 organizations:
   - name: Università degli Studi di Napoli Federico II
     url: http://www.unina.it/en_GB/home
