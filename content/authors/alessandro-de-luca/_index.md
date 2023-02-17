@@ -44,16 +44,16 @@ social:
     label: Linkedin
   - display:
       header: false
-    link: "#contact"
-    icon_pack: fas
-    icon: envelope
-    label: Contact info
-  - display:
-      header: false
     link: https://www.webofscience.com/wos/author/record/41711
     icon_pack: ai
     icon: clarivate
     label: Web of Science profile
+  - display:
+      header: false
+    link: "#contact"
+    icon_pack: fas
+    icon: envelope
+    label: Contact info
 organizations:
   - name: Università degli Studi di Napoli Federico II
     url: http://www.unina.it/en_GB/home
