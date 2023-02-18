@@ -37,11 +37,12 @@ sections:
               * Combinatorics on Words
               * Automata and Formal Languages
               * String Algorithms
-              * Discrete Mathematics
+              * Discrete Mathematics  
               Mainly focused on [Sturmian words](https://en.wikipedia.org/wiki/Sturmian_word) and generalizations, periodicity, (pseudo-)palindromes…
           
         - title: Adjunct Professor
           company: Univ. Napoli Federico II
+          company_logo: Unina_LogoBlu
           company_url: 'http://www.unina.it'
           location: Italy
           date_start: '2012-01-01'
@@ -75,6 +76,7 @@ sections:
           description: 'At [LaCIM](http://lacim.uqam.ca/).'
         - title: Postdoc _(Assegnista di ricerca)_
           company: Univ. Napoli Federico II
+          company_logo: Unina_LogoBlu
           company_url: 'http://www.unina.it'
           location: Italy
           date_start: '2008-06-01'
