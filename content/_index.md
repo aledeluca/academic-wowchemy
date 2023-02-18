@@ -33,7 +33,8 @@ sections:
           date_end: ''
           description: |2-
               Main research focus — Sturmian words and generalizations
-              Interests include:
+              
+              Interests include
               
               * Combinatorics on Words
               * String Algorithms
@@ -49,11 +50,12 @@ sections:
               Classes taught:
 
               * Elements of Theoretical Computer Science
-              * Theory of Codes
+              * Encoding and Encryption
+              * Theory of Codes, 2020
               * Databases (lab), 2012–2019
               * Information Theory, 2013–2019
               
-        - title: Postdoc (_Tutkijatohtori_ )
+        - title: Postdoc _(Tutkijatohtori)_
           company: University of Turku
           company_url: 'https://www.utu.fi'
           location: Finland
@@ -62,14 +64,14 @@ sections:
           description: |-
             Full-time in 2010, part-time afterwards; within the
               [FiDiPro group](http://www.math.utu.fi/projects/fundim/fidipro/).
-        - title: Postdoc (_Stagiaire postdoctoral_ )
+        - title: Postdoc _(Stagiaire postdoctoral)_
           company: UQAM
           company_url: 'https://www.uqam.ca'
           location: 'Montréal, Canada'
           date_start: '2009-09-21'
           date_end: '2010-09-20'
           description: 'At [LaCIM](http://lacim.uqam.ca/).'
-        - title: Postdoc (_Assegnista di ricerca_)
+        - title: Postdoc _(Assegnista di ricerca)_
           company: Univ. Napoli Federico II
           company_url: 'http://www.unina.it'
           location: Italy
