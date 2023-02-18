@@ -86,14 +86,14 @@ sections:
           description: ''
     design:
       columns: '2'
-  # - block: markdown
-  #  content:
-  #    title: Gallery
-  #    subtitle: ''
-  #    text: |-
-  #      {{< gallery album="demo" >}}
-  #  design:
-  #    columns: '1'
+  - block: markdown
+    content:
+      title: News
+      subtitle: ''
+      text: |-
+        <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="480" height="640" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmathstodon.xyz%2Fusers%2Ftao&theme=auto&size=100&header=true&replies=false&boosts=true"></iframe>
+    design:
+      columns: '2'
   # - block: collection
   #  id: featured
   #  content:
@@ -105,20 +105,20 @@ sections:
   #  design:
   #    columns: '2'
   #    view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  # - block: collection
+  #  content:
+  #    title: Recent Publications
+  #    text: |-
+  #      {{% callout note %}}
+  #      Quickly discover relevant content by [filtering publications](./publication/).
+  #      {{% /callout %}}
+  #    filters:
+  #      folders:
+  #        - publication
+  #      exclude_featured: true
+  #  design:
+  #    columns: '2'
+  #    view: citation
   - block: collection
     id: talks
     content:
