@@ -24,6 +24,50 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Researcher
+          company: Univ. Napoli Federico II
+          company_url: 'http://www.unina.it'
+          location: Italy
+          date_start: '2010-12-28'
+          date_end: ''
+          description: Includes teaching assistance and tutoring duties.
+        - title: Adjunct Professor
+          company: Univ. Napoli Federico II
+          company_url: 'http://www.unina.it'
+          location: Italy
+          date_start: '2012-01-01'
+          date_end: ''
+          description: |2-
+              Classes taught:
+
+              * Elements of Theoretical Computer Science
+              * Theory of Codes
+              * Databases (lab), 2012–2019
+              * Information Theory, 2013–2019
+              
+        - title: Postdoc (_Tutkijatohtori_ )
+          company: University of Turku
+          company_url: 'https://www.utu.fi'
+          location: Finland
+          date_start: '2010-10-01'
+          date_end: '2012-02-29'
+          description: |-
+            Full-time in 2010, part-time afterwards; within the
+              [FiDiPro group](http://www.math.utu.fi/projects/fundim/fidipro/).
+        - title: Postdoc (_Stagiaire postdoctoral_ )
+          company: UQAM
+          company_url: 'https://www.uqam.ca'
+          location: 'Montréal, Canada'
+          date_start: '2009-09-21'
+          date_end: '2010-09-20'
+          description: 'At [LaCIM](http://lacim.uqam.ca/).'
+        - title: Postdoc (_Assegnista di ricerca_)
+          company: Univ. Napoli Federico II
+          company_url: 'http://www.unina.it'
+          location: Italy
+          date_start: '2008-06-01'
+          date_end: '2009-05-31'
+          description: ''
         - title: CEO
           company: GenCoin
           company_url: ''
