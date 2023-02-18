@@ -27,6 +27,7 @@ sections:
         - title: Researcher
           company: Univ. Napoli Federico II
           company_url: 'http://www.unina.it'
+          company_logo: Unina_LogoBlu
           location: Italy
           date_start: '2010-12-28'
           date_end: ''
