@@ -32,13 +32,13 @@ sections:
           date_start: '2010-12-28'
           date_end: ''
           description: |2-
-              Main research focus — Sturmian words and generalizations
-              
               Interests include
               
               * Combinatorics on Words
+              * Automata and Formal Languages
               * String Algorithms
               * Discrete Mathematics
+              Mainly focused on [Sturmian words](https://en.wikipedia.org/wiki/Sturmian_word) and generalizations, periodicity, (pseudo-)palindromes…
           
         - title: Adjunct Professor
           company: Univ. Napoli Federico II
