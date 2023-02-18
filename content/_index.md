@@ -67,6 +67,7 @@ sections:
               [FiDiPro group](http://www.math.utu.fi/projects/fundim/fidipro/).
         - title: Postdoc _(Stagiaire postdoctoral)_
           company: UQAM
+          company_logo: UQAM
           company_url: 'https://www.uqam.ca'
           location: 'Montréal, Canada'
           date_start: '2009-09-21'
