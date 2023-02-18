@@ -58,6 +58,7 @@ sections:
         - title: Postdoc _(Tutkijatohtori)_
           company: University of Turku
           company_url: 'https://www.utu.fi'
+          company_logo: utu
           location: Finland
           date_start: '2010-10-01'
           date_end: '2012-02-29'
