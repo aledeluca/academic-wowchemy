@@ -15,6 +15,7 @@ sections:
   - block: experience
     content:
       title: Experience
+      subtitle: Past & current affiliations
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -37,7 +38,8 @@ sections:
               * Combinatorics on Words
               * Automata and Formal Languages
               * String Algorithms
-              * Discrete Mathematics  
+              * Discrete Mathematics
+              
               Mainly focused on [Sturmian words](https://en.wikipedia.org/wiki/Sturmian_word) and generalizations, periodicity, (pseudo-)palindromes…
           
         - title: Adjunct Professor
