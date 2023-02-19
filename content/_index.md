@@ -91,7 +91,7 @@ sections:
       title: News
       subtitle: ''
       text: |-
-        <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="360" height="480" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmathstodon.xyz%2Fusers%2Ftao&theme=auto&size=100&header=true&replies=false&boosts=true"></iframe>
+        <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="384" height="576" src="https://www.mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmathstodon.xyz%2Fusers%2Ftao&theme=auto&size=100&header=true&replies=false&boosts=true"></iframe>
     design:
       columns: '2'
   # - block: collection
