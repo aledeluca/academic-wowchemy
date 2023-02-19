@@ -8,7 +8,7 @@
 appearance:
   theme_day: ocean
   theme_night: ocean
-  font: minimal
+  font: cyberpunk
   font_size: L
 
 # SEO
