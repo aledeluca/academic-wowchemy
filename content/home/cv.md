@@ -58,7 +58,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
     October 2003.
 
   - Attendance of the Algebraic Geometry and Algebraic Topology
-    classes of the Scuola Matematica Interuniversitaria (SMI), at
+    classes of the Scuola Matematica Interuniversitaria (SMI) at
     the University of Perugia (Italy), August 2003.
 
   - Language skills: Italian (native), English (proficient),
@@ -90,7 +90,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   - Teaching assistance for the Matrix Algebra class held by
     Srečko Brlek at UQAM in 2010.
 
-# Research Activity
+# Research
 
   The main areas of my research are theoretical computer science
   and discrete mathematics. In particular, I am interested in
