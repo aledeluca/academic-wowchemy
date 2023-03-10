@@ -1,16 +1,19 @@
 ---
-title: Curriculum Vitae
-subtitle: 'Alessandro De Luca, as of Feb 1, 2020'
-date: 2020-02-01T01:49:55.000Z
 draft: false
+widget: page
+date: 2020-02-01T01:49:55.000Z
+widget_id: cv
+weight: 10
+title: Curriculum Vitae
+subtitle: Alessandro De Luca, as of Feb 1, 2020
 tags:
   - homepage
   - cv
-categories: []
 image:
-  caption: ''
+  caption: ""
   focal_point: Smart
   preview_only: false
+categories: []
 ---
 
 **{{% staticref "files/cvADL_en.pdf" %}}Download as PDF{{% /staticref %}}**
@@ -87,7 +90,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   - Teaching assistance for the Matrix Algebra class held by
     Srečko Brlek at UQAM in 2010.
 
-# Scientific Research
+# Research Activity
 
   The main areas of my research are theoretical computer science
   and discrete mathematics. In particular, I am interested in
@@ -132,10 +135,10 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   [enumeration](../tags/enumeration/) of
   [palindromic](../tags/palindromes/) factors.
 
-## Research Projects and Collaborations
+## Projects and Collaborations
 
   - Ongoing collaboration with Gabriele Fici (University of Palermo) and
-    Golnaz Badkobeh (Goldsmiths University of London), among others.
+    Luca Q. Zamboni (Université Lyon 1), among others.
 
   - Member of the Centre for Combinatorics on Words and Applications
     (CCWA) at Murdoch University, Perth (Australia) since late 2014.
