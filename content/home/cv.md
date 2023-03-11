@@ -157,22 +157,20 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
     2006, for research under the supervision of Prof. Juhani
     Karhumäki.
 
-## [Talks](../talk)
+## [Talks](index.html#talks)
 
-  - *Lie Complexity of Sturmian Words*, at the Journes
-    Montoises
+  - *Lie Complexity of Sturmian Words*, at the JM conference in
+    Prague, 9 September 2022.
 
-  - [*Characteristic Parameters and Special Trapezoidal
-    Words*](../talk/rk-trapezoidal/),
-    at the WORDS conference in Loughborough, 13 September 2019.
+  - *Characteristic Parameters and Special Trapezoidal
+    Words*, at the WORDS conference in Loughborough, 13
+    September 2019.
 
-  - [*Markov numbers, Christoffel words, and the uniqueness
-    conjecture*](../talk/markov-christoffel-uniqueness/), at the
-    memorial event in Rome, 12 July 2019.
+  - *Markov numbers, Christoffel words, and the uniqueness
+    conjecture*, at the memorial event in Rome, 12 July 2019.
 
-  - [*The sequence of open and closed prefixes of a Sturmian
-    word*](../talk/the-oc-sequence/),
-    at the ICP workshop in Palermo, 20 January 2017.
+  - *The sequence of open and closed prefixes of a Sturmian
+    word*, at the ICP workshop in Palermo, 20 January 2017.
 
   - *Derivatives of Christoffel and standard words*, at the FLA
     workshop in Naples, 14 January 2016.
