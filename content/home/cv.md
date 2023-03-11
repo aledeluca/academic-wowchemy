@@ -117,7 +117,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   introduced and studied some different generalizations of
   episturmian words, all based on *special factors* and
   *pseudopalindromes* (i.e., fixed points of antimorphic 
-  involutions in the free monoid).
+  involutions of the free monoid).
   In doing so, we used and expanded the important tool known as
   (iterated) *palindromic closure* or *palindromization*.
 
@@ -157,9 +157,61 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
     2006, for research under the supervision of Prof. Juhani
     Karhumäki.
 
+## [Talks](../talk)
+
+  - *Lie Complexity of Sturmian Words*, at the Journes
+    Montoises
+
+  - [*Characteristic Parameters and Special Trapezoidal
+    Words*](../talk/rk-trapezoidal/),
+    at the WORDS conference in Loughborough, 13 September 2019.
+
+  - [*Markov numbers, Christoffel words, and the uniqueness
+    conjecture*](../talk/markov-christoffel-uniqueness/), at the
+    memorial event in Rome, 12 July 2019.
+
+  - [*The sequence of open and closed prefixes of a Sturmian
+    word*](../talk/the-oc-sequence/),
+    at the ICP workshop in Palermo, 20 January 2017.
+
+  - *Derivatives of Christoffel and standard words*, at the FLA
+    workshop in Naples, 14 January 2016.
+
+  - *Stern’s diatomic sequence, fraction trees, and Christoffel
+    words*, seminar at the University of Liège, 13 November 2014 and
+    again at the University of Palermo, 27 November 2014.
+
+  - *Numeri pseudo-casuali e parole con occorrenze ben distribuite
+    (WDO)*, at the ICP workshop in Palermo, 11 October 2013.
+
+  - *Reversible Christoffel factorizations*, at the RuFiDiM conference
+    in St. Petersburg, 22 September 2011.
+
+  - *Palindromic Richness in Finite and Infinite Words*, for the
+    Séminaire du LaCIM in Montreal, 27 November 2009.
+
+  - *On a Family of Morphic Images of Arnoux-Rauzy Words*, at the LATA
+    conference in Tarragona, 6 April 2009.
+
+  - *Special factors and images of Arnoux-Rauzy words*, at the JM08
+    conference in Mons, 30 August 2008.
+
+  - *Some generalizations of episturmian words and morphisms*, at the
+    WORDS conference in Marseille, 18 September 2007.
+
+  - *Sturmian Words. Some characterisations and extensions*, at the
+    University of Turku, 24 May 2006.
+
+  - *Sequenze Sturmiane. Teoria e Applicazioni*, seminar at UniNa, 24
+    October 2005.
+
+  - *Palindromes in Sturmian Words*, at the DLT conference in Palermo,
+    8 July 2005.
+
 ## Attended Conferences and Workshops
 
-  - *WORDS*: Loughborough (UK) 2019, Montreal 2017 & 2005, Kiel (Germany) 2015,
+  - *WORDS*: Loughborough (UK) 2019, Montreal 2017 & 2005, Kiel
+    (Germany) 2015,
     Turku (Finland) 2013, Prague 2011, Salerno 2009 (also member of the
     organizing committee), Marseille 2007.
 
@@ -213,49 +265,5 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   - *Workshop on Fibonacci Words*, Turku 2006.
 
   - *Workshop on Words and Automata*, St. Petersburg 2006.
-
-## [Talks](../talk)
-
-  - [*Characteristic Parameters and Special Trapezoidal Words*](../talk/rk-trapezoidal/),
-    at the WORDS conference in Loughborough, 13 September 2019.
-
-  - [*Markov numbers, Christoffel words, and the uniqueness conjecture*](../talk/markov-christoffel-uniqueness/), at the memorial event in Rome, 12 July 2019.
-
-  - [*The sequence of open and closed prefixes of a Sturmian word*](../talk/the-oc-sequence/),
-    at the ICP workshop in Palermo, 20 January 2017.
-
-  - *Derivatives of Christoffel and standard words*, at the FLA workshop
-    in Naples, 14 January 2016.
-
-  - *Stern’s diatomic sequence, fraction trees, and Christoffel words*,
-    at the University of Liège, 13 November 2014 and again at
-    University of Palermo, 27 November 2014.
-
-  - *Numeri pseudo-casuali e parole con occorrenze ben distribuite
-    (WDO)*, at the ICP workshop in Palermo, 11 October 2013.
-
-  - *Reversible Christoffel factorizations*, at the RuFiDiM conference
-    in St. Petersburg, 22 September 2011.
-
-  - *Palindromic Richness in Finite and Infinite Words*, for the
-    Séminaire du LaCIM in Montreal, 27 November 2009.
-
-  - *On a Family of Morphic Images of Arnoux-Rauzy Words*, at the LATA
-    conference in Tarragona, 6 April 2009.
-
-  - *Special factors and images of Arnoux-Rauzy words*, at the JM08
-    conference in Mons, 30 August 2008.
-
-  - *Some generalizations of episturmian words and morphisms*, at the
-    WORDS conference in Marseille, 18 September 2007.
-
-  - *Sturmian Words. Some characterisations and extensions*, at the
-    University of Turku, 24 May 2006.
-
-  - *Sequenze Sturmiane. Teoria e Applicazioni*, at the , 24 October
-    2005.
-
-  - *Palindromes in Sturmian Words*, at the DLT conference in Palermo,
-    8 July 2005.
 
 # [Publications](../publication/)
