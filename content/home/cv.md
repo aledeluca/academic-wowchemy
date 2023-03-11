@@ -206,52 +206,56 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   - *Palindromes in Sturmian Words*, at the DLT conference in Palermo,
     8 July 2005.
 
-## Attended Conferences and Workshops
+## Conference and Workshop Invitations
+
+  - *Giornate di informatica teorica in memoria di Aldo de Luca*
+    memorial event, Rome 2019.
+
+  - *Incontro di Combinatoria delle Parole* workshop, Palermo 2017 and
+    2013.
+
+  - *Combinatorics on Words* workshop: Marseille 2016.
+
+  - *FLA* (Formal Languages and Automata) workshop: Naples 2016.
+
+  - *Workshop on Challenges in Combinatorics on Words at the Fields
+    Institute*: Toronto 2013.
+
+  - *Combinatorial and Algorithmic Aspects of Sequence Processing*
+    seminar: Dagstuhl (Germany) 2011.
+
+  - *LaCIM 2010*: Montreal 2010.
+
+  - *Interaction entre Géometrie discrete et combinatoire des mots*
+    workshop: Marseille 2010.
+
+  - *Workshop on Fibonacci Words*, Turku 2006.
+
+## Other Attended Conferences and Workshops
 
   - *WORDS*: Loughborough (UK) 2019, Montreal 2017 & 2005, Kiel
     (Germany) 2015,
     Turku (Finland) 2013, Prague 2011, Salerno 2009 (also member of the
     organizing committee), Marseille 2007.
 
-  - *Giornate di informatica teorica in memoria di Aldo de Luca* memorial
-    event: Rome 2019.
-
-  - *Workshop on Words and Complexity*: Lyon 2018.
-
-  - *Incontro di Combinatoria delle Parole* workshop: Palermo 2017 and
-    2013.
-
   - *Journées Montoises d’Informatique Théorique*: Liège 2016, Mons
     (Belgium) 2008, Rennes (France) 2006.
 
-  - *Combinatorics on Words* workshop: Marseille 2016.
-
-  - *FLA* (Formal Languages and Automata) workshop: Naples 2016.
+  - *Workshop on Words and Complexity*, Lyon 2018.
 
   - *DLT* (Developments in Language Theory): Paris-Est 2013 (also member
     of the Program committee), Milan 2011, London, ON (Canada) 2010,
     Stuttgart 2009, Kyoto 2008, Palermo 2005.
-
-  - *Workshop on Challenges in Combinatorics on Words at the Fields
-    Institute*: Toronto 2013.
 
   - *RuFiDiM* (Russian-Finnish symposium on Discrete Mathematics): Turku
     2012 and St. Petersburg 2011.
 
   - *GAMES* workshop: Naples 2012.
 
-  - *Combinatorial and Algorithmic Aspects of Sequence Processing*
-    seminar: Dagstuhl (Germany) 2011.
-
   - *Highlights of AutoMathA*: Vienna 2010.
 
   - *Sage Day 25.5* and *GASCom* (Génération aléatoire de structures
     combinatoires): Montreal 2010.
-
-  - *LaCIM 2010*: Montreal 2010.
-
-  - *Interaction entre Géometrie discrete et combinatoire des mots*
-    workshop: Marseille 2010.
 
   - *DGCI* (Discrete Geometry for Computer Imagery): Montreal 2009.
 
@@ -259,8 +263,6 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
     (Spain) 2009.
 
   - *AutoMathA*: Palermo 2007.
-
-  - *Workshop on Fibonacci Words*, Turku 2006.
 
   - *Workshop on Words and Automata*, St. Petersburg 2006.
 
