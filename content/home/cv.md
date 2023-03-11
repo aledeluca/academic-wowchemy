@@ -128,19 +128,21 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
 
 ## Projects and Collaborations
 
-  - Ongoing collaboration with Gabriele Fici (University of Palermo) and
-    Luca Q. Zamboni (Université Lyon 1), among others.
+  - Ongoing collaboration with Gabriele Fici (University of
+    Palermo) and Luca Q. Zamboni (Université Lyon 1), among
+    others.
 
-  - Member of the Centre for Combinatorics on Words and Applications
-    (CCWA) at Murdoch University, Perth (Australia) since late 2014.
+  - Member of the Centre for Combinatorics on Words and
+    Applications (CCWA) at Murdoch University, Perth (Australia)
+    since late 2014.
 
-  - Member of the Group for Algebraic and Geometric Structures and Their
-    Applications (GNSAGA) of the Italian Institute for Higher
-    Mathematics (INdAM) since 2005.
+  - Member of the Group for Algebraic and Geometric Structures and
+    their Applications (GNSAGA) of the Italian Institute for
+    Higher Mathematics (INdAM) since 2005.
 
-  - In 2010–2012, active participation in the aforementioned FiDiPro
-    project at the University of Turku, sponsored by the Finnish
-    Academy.
+  - In 2010–2012, active participation in the aforementioned
+    FiDiPro project at the University of Turku, sponsored by the
+    Finnish Academy.
 
   - Participating in the project PRIN 2010–11 “Automi e Linguaggi
     Formali: Aspetti Matematici e Applicativi” (Automata and formal
@@ -152,7 +154,8 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
     November 6 to 18 December invited by Prof. Luca Q. Zamboni.
 
   - Invited at the University of Turku (Finland) from March till June
-    2006, for research under the supervision of Prof. Juhani Karhumäki.
+    2006, for research under the supervision of Prof. Juhani
+    Karhumäki.
 
 ## Attended Conferences and Workshops
 
