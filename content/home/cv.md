@@ -5,7 +5,7 @@ date: 2020-02-01T01:49:55.000Z
 widget_id: cv
 weight: 10
 title: Curriculum Vitae
-subtitle: Alessandro De Luca, as of Feb 1, 2020
+subtitle: as of 11 Mar 2023
 tags:
   - homepage
   - cv
@@ -99,41 +99,32 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   field has deep connections with number theory, physics,
   biology, and other areas of computer science.
 
-  Sturmian words and generalizations have been the main focus of
+  *Sturmian words* and generalizations have been the main focus of
   my investigation. Recently, I mostly concentrated on
-  [Christoffel words](../tags/christoffel-words/)
-  with their connection to number theory, and on
-  [open vs. closed](../tags/oc-array/) (aka
-  [*periodic-like*](../tags/complete-returns/)) prefixes of words,
-  especially in the Sturmian and
-  trapezoidal cases . We also found that Sturmian and Arnoux-Rauzy words
-  have [*well distributed occurrences*](../tags/well-distributed-occurrences/),
-  showing how this yields
-  statistically valid pseudorandom number generation. In a different line
-  of research, we characterized infinite Sturmian words in terms of the
-  [lexicographic order](../tags/lexicographic-order).
+  *Christoffel words* (and related families such as *singular*
+  words) with their connection to number theory and symbolic
+  dynamics, and on open vs. *closed* (aka *periodic-like*)
+  prefixes of words, especially in the Sturmian and trapezoidal
+  cases.
+  We also found that Sturmian and Arnoux-Rauzy words
+  have *well distributed occurrences*, showing how this yields
+  statistically valid pseudorandom number generation.
 
-  Previously, I had also focused on
-  [rich words](../tags/rich-words/), a broad family containing
-  (epi-)Sturmian words and their factors, from the point of view of
-  [periodicity](../tags/periodicity/) and
-  [complexity](../tags/factor-complexity/). Inspired by bioinformatics
-  (Watson-Crick involution), we also introduced and studied some different
-  generalizations of episturmian words, all based on
-  [*special factors*](../tags/special-factors/) and
-  [*involutory antimorphisms*](../tags/pseudopalindromes/) of the free monoid.
-  In other papers related to
-  [episturmian words](../tags/episturmian-words-and-morphisms/), we used and
-  expanded the important tool known as (iterated) palindromic closure or
-  [*palindromization*](../tags/palindromization/).
+  Previously, I had also focused on *rich* words, a broad family
+  containing (epi-)Sturmian words and their factors, from the
+  point of view of periodicity and complexity.
+  Inspired by bioinformatics (Watson-Crick involution), we also
+  introduced and studied some different generalizations of
+  episturmian words, all based on *special factors* and
+  *pseudopalindromes* (i.e., fixed points of antimorphic 
+  involutions in the free monoid).
+  In doing so, we used and expanded the important tool known as
+  (iterated) *palindromic closure* or *palindromization*.
 
-  My first efforts were devoted to finite factors of
-  [Sturmian words](../tags/sturmian-words/),
-  finding new characterizations (implemented as linear-time
-  [algorithms](../tags/string-algorithms/))
-  and studying the structure and
-  [enumeration](../tags/enumeration/) of
-  [palindromic](../tags/palindromes/) factors.
+  My first efforts were devoted to finite factors of Sturmian
+  words, finding new characterizations (implemented as linear-time
+  algorithms) and studying the structure and enumeration of
+  palindromic factors.
 
 ## Projects and Collaborations
 
