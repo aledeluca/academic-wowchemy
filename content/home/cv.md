@@ -27,7 +27,7 @@ Born in 1981 in Heerlen, Netherlands. Italian national.
 # Current position
 
 Member of the Department of Electrical Engineering and
-Information Technology (DIETI) since its activation at the
+Information Technology (DIETI) since its establishment at the
 University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ from now on) on 1 January 2013. Assistant professor
 (*Ricercatore*) of Computer Science at the same university since 28 December 2010.
 
@@ -272,4 +272,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
 
   - *Workshop on Words and Automata*, St. Petersburg 2006.
 
-# [Publications](../publication/)
+# Publications
+
+See [ORCID](https://orcid.org/0000-0003-1704-773X),
+[Google Scholar](http://scholar.google.com/citations?hl=it&user=R3cxnU8AAAAJ) or the other databases linked at the icons below.
