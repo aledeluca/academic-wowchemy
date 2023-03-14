@@ -22,7 +22,7 @@ categories: []
 
 [**Download as PDF**](/files/cvADL_en.pdf)
 
-{{% toc %}}
+{{< toc >}}
 
 # Personal
 
