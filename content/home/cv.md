@@ -7,14 +7,13 @@ widget_id: cv
 weight: 10
 title: Curriculum Vitae
 subtitle: ""
-tags:
-  - homepage
-  - cv
 image:
   caption: ""
   focal_point: Smart
   preview_only: false
 categories: []
+appearance:
+  font_size: M
 ---
 <!--
 **{{% staticref "files/cvADL_en.pdf" %}}Download as PDF{{% /staticref %}}**
