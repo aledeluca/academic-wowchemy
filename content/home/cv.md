@@ -216,18 +216,18 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
 
   - *Combinatorics on Words* workshop: Marseille 2016.
 
-  - *FLA* (Formal Languages and Automata) workshop: Naples 2016.
+  - *FLA* (Formal Languages and Automata) workshop, Naples 2016.
 
   - *Workshop on Challenges in Combinatorics on Words at the Fields
-    Institute*: Toronto 2013.
+    Institute*, Toronto 2013.
 
   - *Combinatorial and Algorithmic Aspects of Sequence Processing*
-    seminar: Dagstuhl (Germany) 2011.
+    seminar, Dagstuhl (Germany) 2011.
 
-  - *LaCIM 2010*: Montreal 2010.
+  - *LaCIM 2010*, Montreal 2010.
 
   - *Interaction entre Géometrie discrete et combinatoire des mots*
-    workshop: Marseille 2010.
+    workshop, Marseille 2010.
 
   - *Workshop on Fibonacci Words*, Turku 2006.
 
