@@ -233,13 +233,14 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
 
 ## Other Attended Conferences and Workshops
 
+  - *JM* (Journées Montoises d’Informatique Théorique):
+    Prague 2022, Liège 2016, Mons (Belgium) 2008,
+    Rennes (France) 2006.
+
   - *WORDS*: Loughborough (UK) 2019, Montreal 2017 & 2005, Kiel
     (Germany) 2015,
-    Turku (Finland) 2013, Prague 2011, Salerno 2009 (also member of the
-    organizing committee), Marseille 2007.
-
-  - *Journées Montoises d’Informatique Théorique*: Liège 2016, Mons
-    (Belgium) 2008, Rennes (France) 2006.
+    Turku (Finland) 2013, Prague 2011, Salerno 2009 (also member of
+    the organizing committee), Marseille 2007.
 
   - *Workshop on Words and Complexity*, Lyon 2018.
 
@@ -250,7 +251,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   - *RuFiDiM* (Russian-Finnish symposium on Discrete Mathematics): Turku
     2012 and St. Petersburg 2011.
 
-  - *GAMES* workshop: Naples 2012.
+  - *GAMES* workshop, Naples 2012.
 
   - *Highlights of AutoMathA*: Vienna 2010.
 
