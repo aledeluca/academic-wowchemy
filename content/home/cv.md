@@ -14,6 +14,7 @@ image:
 categories: []
 appearance:
   font_size: M
+font-size: 0
 ---
 <!--
 **{{% staticref "files/cvADL_en.pdf" %}}Download as PDF{{% /staticref %}}**
