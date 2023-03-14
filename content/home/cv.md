@@ -253,17 +253,17 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
     of the Program committee), Milan 2011, London, ON (Canada) 2010,
     Stuttgart 2009, Kyoto 2008, Palermo 2005.
 
-  - *RuFiDiM* (Russian-Finnish symposium on Discrete Mathematics): Turku
-    2012 and St. Petersburg 2011.
+  - *RuFiDiM* (Russian-Finnish symposium on Discrete Mathematics):
+    Turku 2012 and St. Petersburg 2011.
 
   - *GAMES* workshop, Naples 2012.
 
-  - *Highlights of AutoMathA*: Vienna 2010.
+  - *Highlights of AutoMathA*, Vienna 2010.
 
   - *Sage Day 25.5* and *GASCom* (Génération aléatoire de structures
-    combinatoires): Montreal 2010.
+    combinatoires), Montreal 2010.
 
-  - *DGCI* (Discrete Geometry for Computer Imagery): Montreal 2009.
+  - *DGCI* (Discrete Geometry for Computer Imagery), Montreal 2009.
 
   - *LATA* (Language and Automata Theory and Applications): Tarragona
     (Spain) 2009.
