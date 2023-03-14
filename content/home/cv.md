@@ -24,18 +24,18 @@ categories: []
 
 {{< toc >}}
 
-# Personal
+## Personal
 
 Born in 1981 in Heerlen, Netherlands. Italian national.
 
-# Current position
+## Current position
 
 Member of the Department of Electrical Engineering and
 Information Technology (DIETI) since its establishment at the
 University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ from now on) on 1 January 2013. Assistant professor
 (*Ricercatore*) of Computer Science at the same university since 28 December 2010.
 
-# Past Employment and Education
+## Past Employment and Education
 
   - Post-doc researcher at the Department of Mathematics and
   Statistics of the University of Turku (Finland), within the
@@ -68,7 +68,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   - Language skills: Italian (native), English (proficient),
     French (conversational).
 
-# Teaching Experience
+## Teaching Experience
 
   - Since the 2020–21 academic year, adjunct professor of
     *Encoding and Encryption*, a graduate Computer Science class
@@ -94,7 +94,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   - Teaching assistance for the Matrix Algebra class held by
     Srečko Brlek at UQAM in 2010.
 
-# Research
+## Research
 
   The main areas of my research are theoretical computer science
   and discrete mathematics. In particular, I am interested in
@@ -130,7 +130,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   algorithms) and studying the structure and enumeration of
   palindromic factors.
 
-## Projects and Collaborations
+### Projects and Collaborations
 
   - Ongoing collaboration with Gabriele Fici (University of
     Palermo) and Luca Q. Zamboni (Université Lyon 1), among
@@ -161,7 +161,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
     2006, for research under the supervision of Prof. Juhani
     Karhumäki.
 
-## [Talks](/index.html#talks)
+### [Talks](/index.html#talks)
 
   - *Lie Complexity of Sturmian Words*, at the JM conference in
     Prague, 9 September 2022.
@@ -210,7 +210,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   - *Palindromes in Sturmian Words*, at the DLT conference in Palermo,
     8 July 2005.
 
-## Conference and Workshop Invitations
+### Conference and Workshop Invitations
 
   - *Giornate di informatica teorica in memoria di Aldo de Luca*
     memorial event, Rome 2019.
@@ -235,7 +235,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
 
   - *Workshop on Fibonacci Words*, Turku 2006.
 
-## Participation in Other Conferences and Meetings
+### Participation in Other Conferences and Meetings
 
   - *JM* (Journées Montoises d’Informatique Théorique):
     Prague 2022, Liège 2016, Mons (Belgium) 2008,
@@ -276,7 +276,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
 
   - *Workshop on Words and Automata*, St. Petersburg 2006.
 
-# Publications
+## Publications
 
 See [ORCID](https://orcid.org/0000-0003-1704-773X),
 [Google Scholar](http://scholar.google.com/citations?hl=it&user=R3cxnU8AAAAJ) or the other databases linked at the icons below.
