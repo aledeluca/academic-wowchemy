@@ -211,8 +211,8 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
   - *Giornate di informatica teorica in memoria di Aldo de Luca*
     memorial event, Rome 2019.
 
-  - *Incontro di Combinatoria delle Parole* workshop, Palermo 2017 and
-    2013.
+  - *Incontro di Combinatoria delle Parole* workshop, Palermo 2017
+    and 2013.
 
   - *Combinatorics on Words* workshop: Marseille 2016.
 
@@ -231,11 +231,16 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
 
   - *Workshop on Fibonacci Words*, Turku 2006.
 
-## Other Attended Conferences and Workshops
+## Participation in Other Conferences and Meetings
 
   - *JM* (Journées Montoises d’Informatique Théorique):
     Prague 2022, Liège 2016, Mons (Belgium) 2008,
     Rennes (France) 2006.
+
+  - *CiE* (Computability in Europe), Salerno 2020 (online).
+
+  - *One World Combinatorics on Words Seminar*, regular attendance
+    since its establishment in 2020 (online).
 
   - *WORDS*: Loughborough (UK) 2019, Montreal 2017 & 2005, Kiel
     (Germany) 2015,
