@@ -157,7 +157,7 @@ University of Naples (Università degli Studi di Napoli Federico II, _UniNa_ fro
     2006, for research under the supervision of Prof. Juhani
     Karhumäki.
 
-## [Talks](index.html#talks)
+## [Talks](/index.html#talks)
 
   - *Lie Complexity of Sturmian Words*, at the JM conference in
     Prague, 9 September 2022.
