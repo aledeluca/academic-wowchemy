@@ -1,11 +1,12 @@
 ---
 draft: false
 widget: page
+active: true
 date: 2020-02-01T01:49:55.000Z
 widget_id: cv
 weight: 10
 title: Curriculum Vitae
-subtitle: as of 11 Mar 2023
+subtitle: ""
 tags:
   - homepage
   - cv
@@ -15,8 +16,11 @@ image:
   preview_only: false
 categories: []
 ---
-
+<!--
 **{{% staticref "files/cvADL_en.pdf" %}}Download as PDF{{% /staticref %}}**
+-->
+
+[**Download as PDF**](/files/cvADL_en.pdf)
 
 {{% toc %}}
 
