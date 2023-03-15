@@ -7,6 +7,7 @@ widget_id: cv
 weight: 10
 title: Curriculum Vitae
 subtitle: ""
+type: book
 image:
   caption: ""
   focal_point: Smart
