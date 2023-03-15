@@ -7,8 +7,7 @@ widget_id: cv
 weight: 10
 title: Curriculum Vitae
 subtitle: ""
-type: book
-profile: true
+share: false
 image:
   caption: ""
   focal_point: Smart
@@ -21,6 +20,7 @@ categories: []
 -->
 
 [**Download as PDF**](/files/cvADL_en.pdf)
+{{< toc >}}
 
 ## Personal
 
