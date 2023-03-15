@@ -7,21 +7,20 @@ widget_id: cv
 weight: 10
 title: Curriculum Vitae
 subtitle: ""
-toc: true
-share: false
+type: book
+profile: true
 image:
   caption: ""
   focal_point: Smart
   preview_only: false
 categories: []
 ---
+
 <!--
 **{{% staticref "files/cvADL_en.pdf" %}}Download as PDF{{% /staticref %}}**
 -->
 
 [**Download as PDF**](/files/cvADL_en.pdf)
-
-{{< toc >}}
 
 ## Personal
 
