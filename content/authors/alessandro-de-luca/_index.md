@@ -2,8 +2,7 @@
 title: Alessandro De Luca
 role: researcher & lecturer of theoretical computer science
 avatar_filename: avatar.jpg
-bio: Researcher & lecturer of theoretical computer science, currently @
-  Università di Napoli Federico II
+bio: Lecturer of theoretical computer science @ Univ. Napoli Federico II
 interests: []
 social:
   - display:
